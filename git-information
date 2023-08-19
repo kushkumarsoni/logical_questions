@@ -1,0 +1,7 @@
+There are 5 commands that will help you to upload project from local to live :
+git init
+git add .
+git commit -m "commit message"
+git branch -M main (if branch is master/main see that)
+git remote add origin <Github Link>
+git push -u origin main
