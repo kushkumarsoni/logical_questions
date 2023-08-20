@@ -1,2 +1,5 @@
 ===================== Node js =================================================================
 cmd : npm init -y
+cmd : npm i express
+cmd: npm install -g nodemon
+cmd : npm i mysql2
