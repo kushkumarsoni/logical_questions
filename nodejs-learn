@@ -3,3 +3,4 @@ cmd : npm init -y
 cmd : npm i express
 cmd: npm install -g nodemon
 cmd : npm i mysql2
+cmd : npm i sequelize
